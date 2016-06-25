@@ -1,1 +1,13 @@
-﻿<Properties StartupItem="TasksEditor/TasksEditor.csproj" />
+﻿<Properties StartupItem="TasksEditor/TasksEditor.csproj">
+  <MonoDevelop.Ide.ItemProperties.TasksEditor AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.test" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="TasksEditor/MainActivity.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
